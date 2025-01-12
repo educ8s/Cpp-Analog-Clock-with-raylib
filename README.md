@@ -1,4 +1,3 @@
-
 # Analog Clock with Raylib and C++
 
 This repository contains the code for a video tutorial on creating a fully functional analog clock using Raylib and C++.
@@ -10,7 +9,7 @@ This repository contains the code for a video tutorial on creating a fully funct
 </p>
 
 <p align="center">
-🎥 <a href="https://youtu.be/YourVideoLinkHere">Watch the Video Tutorial on YouTube</a>
+🎥 <a href="https://youtu.be/E_hg96tixLM">Watch the Video Tutorial on YouTube</a>
 </p>
 
 ## Overview
